@@ -1,4 +1,4 @@
-package sort_transformed_array
+package two_pointers
 
 func sortTransformedArray(nums []int, a int, b int, c int) []int {
 	n := len(nums)

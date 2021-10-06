@@ -1,4 +1,4 @@
-package sort_transformed_array
+package two_pointers
 
 import (
 	"reflect"
